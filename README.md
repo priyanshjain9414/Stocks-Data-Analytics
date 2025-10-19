@@ -34,7 +34,7 @@ Stock-Data-Analytics/
 ├── Home(Page 1).jpg              # Dashboard images/screenshots
 ├── Stock Market(Page 2).jpg      # Dashboard images/screenshots
 ├── Top Companies(Page 3).jpg     # Dashboard images/screenshots
-├── Stock_Dashboard               # Dashboard
+├── Stock_Dashboard.pbix          # Dashboard
 ├── Logo.jpg               
 └── README.md                     # Project description
 ```
@@ -59,13 +59,13 @@ pip install -r requirements.txt
 
 ## Dashboard Screenshots
 ### Home (Page 1)
-![Home Page](Home(Page 1).jpg)
+![Home Page](Home%20Page%201.JPG)
 
 ### Stock Market (Page 2)
-![Stock Market Page](Stock Market(Page 2).jpg)
+![Stock Market Page](Stock%20Market%28Page%202%29.JPG)
 
 ### Top Companies (Page 3)
-![Top Companies Page](Top Companies(Page 3).jpg)
+![Top Companies Page](Top%20Companies%28Page%203%29.JPG)
 
 ---
 

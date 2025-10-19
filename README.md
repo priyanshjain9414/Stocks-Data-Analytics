@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Dashboard Screenshots
 ### Home (Page 1)
-![Home Page](Home%20Page%201.JPG)
+![Home Page](Home(Page%201).JPG)
 
 ### Stock Market (Page 2)
 ![Stock Market Page](Stock%20Market%28Page%202%29.JPG)
